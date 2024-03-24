@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Praktikos darbas 2</string>
+    <string name="btn_count_caption">Count</string>
+    <string-array name="selection_options">
+        <item>Chars</item>
+        <item>Words</item>
+    </string-array>
 </resources>
